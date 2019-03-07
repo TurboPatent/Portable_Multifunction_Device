@@ -1,0 +1,158 @@
+{
+  "name": "Portable_Multifunction_Device",
+  "description": "Portable multifunction device with touch screen",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "private": false,
+  "details": {
+    "counts": {
+      "termCount": 58,
+      "claimCount": 1,
+      "independentCount": 1,
+      "drawingCount": 1,
+      "glossaryCount": 0
+    },
+    "briefDescriptions": [
+      "<p>&nbsp;</p>"
+    ],
+    "parts": [
+      {
+        "name": "portable multifunction device",
+        "number": 100
+      },
+      {
+        "name": "user interface",
+        "number": 102
+      },
+      {
+        "name": "one or more fingers",
+        "number": 104
+      },
+      {
+        "name": "one or more styluses",
+        "number": 106
+      },
+      {
+        "name": "menu button",
+        "number": 108
+      },
+      {
+        "name": "push button",
+        "number": 110
+      },
+      {
+        "name": "volume adjustment button(s)",
+        "number": 112
+      },
+      {
+        "name": "Subscriber Identity Module (SIM) card slot",
+        "number": 114
+      },
+      {
+        "name": "head set jack",
+        "number": 116
+      },
+      {
+        "name": "external port",
+        "number": 118
+      },
+      {
+        "name": "touch screen",
+        "number": 120
+      },
+      {
+        "name": "speaker",
+        "number": 122
+      },
+      {
+        "name": "optical sensor",
+        "number": 124
+      },
+      {
+        "name": "proximity sensor",
+        "number": 126
+      },
+      {
+        "name": "one or more contact intensity sensors",
+        "number": 128
+      },
+      {
+        "name": "one or more tactile output generators",
+        "number": 130
+      },
+      {
+        "name": "microphone",
+        "number": 132
+      },
+      {
+        "name": "Accelerometer(s)",
+        "number": 134
+      }
+    ],
+    "terms": [
+      "volume adjustment button(s)",
+      "application",
+      "applications",
+      "corresponding application",
+      "button",
+      "menu button",
+      "one or more physical buttons",
+      "push button",
+      "implementations or circumstances",
+      "contact",
+      "contacts",
+      "inadvertent contact",
+      "activation or deactivation",
+      "device",
+      "portable multifunction device",
+      "embodiments",
+      "embodiment",
+      "alternative embodiment",
+      "one embodiment",
+      "example",
+      "figure",
+      "finger",
+      "one or more fingers",
+      "fingerprint",
+      "functions",
+      "one or more tactile output generators",
+      "gesture",
+      "swipe gesture",
+      "graphics",
+      "one or more graphics",
+      "application icon",
+      "verbal input",
+      "detecting intensity",
+      "user interface",
+      "predefined time interval",
+      "head set jack",
+      "soft key",
+      "microphone",
+      "Subscriber Identity Module",
+      "others",
+      "tactile outputs",
+      "external port",
+      "power",
+      "unlock process",
+      "right",
+      "rolling",
+      "screen",
+      "touch screen",
+      "selection",
+      "fingerprint sensor",
+      "one or more contact intensity sensors",
+      "depressed state",
+      "one or more styluses",
+      "one or more swipes",
+      "one or more taps",
+      "user",
+      "Subscriber Identity Module (SIM) card slot",
+      "Accelerometer(s)"
+    ],
+    "glossary": []
+  },
+  "repository": "https://github.com/TurboPatent/Portable_Multifunction_Device"
+}

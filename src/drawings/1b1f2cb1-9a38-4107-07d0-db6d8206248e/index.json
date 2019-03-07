@@ -1,0 +1,959 @@
+{
+  "isLandscape": false,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"71c2473b-83a7-6cca-19e1-88136f2c8564\" id=\"id26f8e3ec-f456-0f73-4556-80bfd6a177c4\" data-type=\"term\">portable multifunction device</span></p>",
+        "position": {
+          "x": 555,
+          "y": 19
+        },
+        "size": {
+          "width": 28.346457481384277,
+          "height": 28.346457481384277
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "only",
+        "id": "d93968d8-7dfe-4f6d-9f1b-5db8114f1aac",
+        "z": 1,
+        "objectID": "4b09bf94-0ed6-b86a-b419-85f1e2aece55",
+        "number": 0
+      },
+      {
+        "type": "tp.Element",
+        "shape": "tablet",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 45,
+          "y": 36
+        },
+        "size": {
+          "width": 588,
+          "height": 784
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "5d69e2bd-7b7c-43ef-beaf-edd68fe9a77f",
+        "z": 2,
+        "labelLayout": {
+          "labelBoxWidth": 459.54583740234375,
+          "fullString": " ",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 229.77291870117188,
+              "y": 271.7701228515625
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "90d8932b-19c4-59bb-4129-76e5ba2feca7",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"d4dd7fa7-15fe-dcb9-4024-3fef10fe84ea\" id=\"id8b996856-954f-bbaa-94c4-a164dd0bf65f\" data-type=\"term\">user interface</span></p>",
+        "position": {
+          "x": 98,
+          "y": 68
+        },
+        "size": {
+          "width": 30.236221313476562,
+          "height": 30.236221313476562
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "only",
+        "leadLinePosition": "position5",
+        "id": "dc440185-315f-4aa7-80d3-e658984d9a70",
+        "z": 3,
+        "objectID": "4ffe4ccb-3dc4-7922-8a3e-4f6661863b64",
+        "number": 2,
+        "showLeadLine": true
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rasterImageNew",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"f9112e94-eb61-2913-66ab-bbe5e67bf971\" id=\"idd67c9bc7-ec9c-2f41-f89f-4a15381dbe89\" data-type=\"term\">one or more fingers</span></p>",
+        "position": {
+          "x": 440,
+          "y": 344
+        },
+        "size": {
+          "width": 224,
+          "height": 184
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "bottom",
+        "numberPosition": "position4",
+        "imageData": {
+          "href": "data:image/png;base64,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",
+          "width": 224,
+          "height": 184
+        },
+        "id": "38c125e3-b6f2-433a-97bd-148fd0d33bce",
+        "z": 6,
+        "objectID": "1d4d7c93-cabe-8965-61df-6b2bb2e852ad",
+        "number": 4,
+        "labelLayout": {
+          "labelBoxWidth": 672,
+          "fullString": " 104",
+          "lines": [
+            {
+              "text": " 104",
+              "width": 22.386520385742188,
+              "x": 324.8067398071289,
+              "y": 0
+            }
+          ],
+          "textWidth": 22.386520385742188,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "feedback",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 410,
+          "y": 648
+        },
+        "size": {
+          "width": 39,
+          "height": 16
+        },
+        "angle": 180,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position10",
+        "id": "dc6787c6-431a-472e-8e83-4e5986faf507",
+        "z": 6,
+        "labelLayout": {
+          "labelBoxWidth": 18.59960174560547,
+          "fullString": " ",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 9.299800872802734,
+              "y": -4.6845060928344715
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "3d40a18e-a980-a7ea-157c-5cfd80f68071",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pipeHorizontal",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"78214c69-e73f-8bc6-2231-31163d1b4a8e\" id=\"idc8fcd323-7977-4c05-0385-2ad70593aadb\" data-type=\"term\">one or more styluses</span></p>",
+        "position": {
+          "x": 429,
+          "y": 647
+        },
+        "size": {
+          "width": 229,
+          "height": 19
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "bottom",
+        "numberPosition": "position4",
+        "id": "99ba7fa6-b807-4c71-8336-c4230bf3f089",
+        "z": 7,
+        "labelLayout": {
+          "labelBoxWidth": 686.9999389648438,
+          "fullString": " 106",
+          "lines": [
+            {
+              "text": " 106",
+              "width": 22.386520385742188,
+              "x": 332.3067092895508,
+              "y": 0
+            }
+          ],
+          "textWidth": 22.386520385742188,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "0bb5cbee-cece-8174-fb54-a7cfcb4096cc",
+        "number": 6
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"e7c46b50-3aa0-4654-ee14-7d5a35bdacf8\" id=\"id9d4a7d53-2565-8e42-5b86-91468c337c62\" data-type=\"term\">menu button</span></p>",
+        "position": {
+          "x": 323,
+          "y": 767
+        },
+        "size": {
+          "width": 30.236221313476562,
+          "height": 30.236221313476562
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "only",
+        "leadLinePosition": "position4",
+        "id": "832474b5-36b6-4c27-a336-9ca7bf78067a",
+        "z": 8,
+        "objectID": "376ded28-cd06-652e-5dd0-38d9466f46a1",
+        "number": 8
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"d93e05e5-4e53-05c1-e534-9d7333feb6a7\" id=\"id7e09eb48-0143-848a-4ecd-c915142226be\" data-type=\"term\">push button</span></p>",
+        "position": {
+          "x": 77,
+          "y": 14
+        },
+        "size": {
+          "width": 48,
+          "height": 17
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "cc0bb390-3634-4a30-9814-148bbcb81998",
+        "z": 9,
+        "labelLayout": {
+          "labelBoxWidth": 43.80451965332031,
+          "fullString": " 110",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": " 110",
+              "width": 22.386520385742188,
+              "x": 10.708999633789062,
+              "y": -2.7752625091552723
+            }
+          ],
+          "textWidth": 22.386520385742188,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "b1b9fbe2-03ef-36e6-1253-11aa28333ef9",
+        "number": 10
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"9022e3cd-6bd2-c689-4108-da2ce51547c1\" id=\"id5e78a4a1-84be-4bba-4503-ce599ac9e9f3\" data-type=\"term\">volume adjustment button(s)</span></p>",
+        "position": {
+          "x": 18,
+          "y": 76
+        },
+        "size": {
+          "width": 24,
+          "height": 56
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "0b439b7e-01fd-0bf4-7a94-da174bcf2532",
+        "z": 10,
+        "labelLayout": {
+          "labelBoxWidth": 21.902259826660156,
+          "fullString": " 112",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": " 112",
+              "width": 22.386520385742188,
+              "x": -0.24213027954101562,
+              "y": 14.94623598022461
+            }
+          ],
+          "textWidth": 22.386520385742188,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "0e58f49e-5bb6-628f-fc25-74a69ccc4a51",
+        "number": 12
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"9022e3cd-6bd2-c689-4108-da2ce51547c1\" id=\"id5e78a4a1-84be-4bba-4503-ce599ac9e9f3\" data-type=\"term\">volume adjustment button(s)</span></p>",
+        "position": {
+          "x": 18,
+          "y": 137
+        },
+        "size": {
+          "width": 24.53064174701378,
+          "height": 57.23816407636549
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "e61a61d1-d461-34fe-7bb0-0320118ccc65",
+        "z": 11,
+        "labelLayout": {
+          "labelBoxWidth": 22.386520385742188,
+          "fullString": " 112",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": " 112",
+              "width": 22.386520385742188,
+              "x": 0,
+              "y": 15.508854235839845
+            }
+          ],
+          "textWidth": 22.386520385742188,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "0e58f49e-5bb6-628f-fc25-74a69ccc4a51",
+        "number": 12
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"36e87efd-eae6-ab6e-7573-7ce8f8cffc34\" id=\"id831f12f6-d39a-0e77-f183-9b3a8594ebec\" data-type=\"term\">Subscriber Identity Module (SIM) card slot</span></p>",
+        "position": {
+          "x": 235,
+          "y": 11.999999999999897
+        },
+        "size": {
+          "width": 144,
+          "height": 19
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "2e8ec548-06e3-4c79-a9bb-3102d5a11db7",
+        "z": 12,
+        "labelLayout": {
+          "labelBoxWidth": 131.41355895996094,
+          "fullString": " 114",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": " 114",
+              "width": 22.386520385742188,
+              "x": 54.513519287109375,
+              "y": -1.8664681060791004
+            }
+          ],
+          "textWidth": 22.386520385742188,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "0ac00220-2d85-d6ca-2959-367260fe403b",
+        "number": 14
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"8e4cb959-98b7-d895-b9ac-e44f77533a41\" id=\"ide395a4ed-062e-feda-c777-0923671c3e26\" data-type=\"term\">head set jack</span></p>",
+        "position": {
+          "x": 438.59299052319614,
+          "y": 13.364540637667275
+        },
+        "size": {
+          "width": 116,
+          "height": 19
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "b7cfd057-a1cd-c817-b6c2-1971b5fc5692",
+        "z": 13,
+        "labelLayout": {
+          "labelBoxWidth": 105.86091613769531,
+          "fullString": " 116",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": " 116",
+              "width": 22.386520385742188,
+              "x": 41.73719787597656,
+              "y": -1.8664681060791004
+            }
+          ],
+          "textWidth": 22.386520385742188,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "01c67c79-324f-837f-53c9-5a1296acd7f5",
+        "number": 16
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"25d26d31-5ba6-e46a-18c6-ca1f056623b0\" id=\"id6ca7d15d-7626-61bc-73bd-6fd61fc208ac\" data-type=\"term\">external port</span></p>",
+        "position": {
+          "x": 213,
+          "y": 823
+        },
+        "size": {
+          "width": 159,
+          "height": 21
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "44d9e101-5a99-47aa-a938-ee3072806051",
+        "z": 14,
+        "labelLayout": {
+          "labelBoxWidth": 145.1024627685547,
+          "fullString": " 118",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": " 118",
+              "width": 22.386520385742188,
+              "x": 61.35797119140625,
+              "y": -0.9576727493286121
+            }
+          ],
+          "textWidth": 22.386520385742188,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "9eda7252-8d28-08cf-3f97-3ac1264a774c",
+        "number": 18
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 250,
+          "y": 377
+        },
+        "size": {
+          "width": 175,
+          "height": 46
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"3454b43f-ea08-ef55-b5da-8e3e531d1eb8\" id=\"id9c897fd4-e0c1-e3d9-14b9-e27d97f75bdd\" data-type=\"term\">touch screen</span></p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "e8558c84-f9c5-4fbc-8395-d509d7edf67a",
+        "z": 15,
+        "labelLayout": {
+          "labelBoxWidth": 159.7039794921875,
+          "fullString": "TOUCH SCREEN 120",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "TOUCH SCREEN 120",
+              "width": 119.03941345214844,
+              "x": 20.33228302001953,
+              "y": 10.402262057495118
+            }
+          ],
+          "textWidth": 119.03941345214844,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "35ffedb5-74a5-c99a-3663-466f760a78a3",
+        "number": 20
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "",
+        "position": {
+          "x": 221,
+          "y": 150
+        },
+        "size": {
+          "width": 254,
+          "height": 46.293946144010846
+        },
+        "angle": 0,
+        "label": "<p>114 is&nbsp;SIM <span data-role=\"tag\" data-value=\"36e87efd-eae6-ab6e-7573-7ce8f8cffc34\" id=\"id978434cc-29fb-cf5f-037b-b0545727513f\" data-type=\"term\">Subscriber Identity Module (SIM) card slot</span></p><p>&nbsp;</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "85f4a433-54f6-41f1-aa82-e0f36190ee32",
+        "z": 16,
+        "labelLayout": {
+          "labelBoxWidth": 231.7989044189453,
+          "fullString": "114 is SIM Subscriber Identity Module (SIM) card slot  ",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "114 is SIM Subscriber Identity Module",
+              "width": 229.6144256591797,
+              "x": 1.0922393798828125,
+              "y": 0.035811117553713245
+            },
+            {
+              "text": "(SIM) card slot  ",
+              "width": 88.20669555664062,
+              "x": 71.79610443115234,
+              "y": 21.03584861755371
+            }
+          ],
+          "textWidth": 229.6144256591797,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "9ede96ba-8743-7701-de14-4f1e08564606"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "",
+        "position": {
+          "x": 241,
+          "y": 203.17467064228387
+        },
+        "size": {
+          "width": 226,
+          "height": 24
+        },
+        "angle": 0,
+        "label": "<p>116 is <span data-role=\"tag\" data-value=\"8e4cb959-98b7-d895-b9ac-e44f77533a41\" id=\"id7239e026-ae3a-2380-1bbc-200ed3fce81b\" data-type=\"term\">head set jack</span></p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "a36cff96-bc2a-425e-b2b4-b39718069fd2",
+        "z": 17,
+        "labelLayout": {
+          "labelBoxWidth": 206.24627685546875,
+          "fullString": "116 is head set jack",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "116 is head set jack",
+              "width": 116.52468872070312,
+              "x": 44.86079406738281,
+              "y": 0.4055198089599621
+            }
+          ],
+          "textWidth": 116.52468872070312,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "3891cb95-7232-2e14-db90-73ee060555b2"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 137,
+          "y": 54
+        },
+        "size": {
+          "width": 132,
+          "height": 39
+        },
+        "angle": 0,
+        "label": "<p>speaker</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "94bf0c06-26fd-4e1e-8fa3-07659f13dcf0",
+        "z": 18,
+        "labelLayout": {
+          "labelBoxWidth": 120.4624252319336,
+          "fullString": "SPEAKER 122",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "SPEAKER 122",
+              "width": 78.12957763671875,
+              "x": 21.166423797607422,
+              "y": 7.221479739379884
+            }
+          ],
+          "textWidth": 78.12957763671875,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "f47868f9-1445-6d92-a531-3ae412c7ddad",
+        "number": 22
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 290,
+          "y": 55
+        },
+        "size": {
+          "width": 132,
+          "height": 38
+        },
+        "angle": 0,
+        "label": "<p>optical sensor</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "1582a4fa-5a39-49b6-4ea5-f603ca8e7ad6",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 120.4624252319336,
+          "fullString": "OPTICAL SENSOR 124",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "OPTICAL SENSOR",
+              "width": 102.3565673828125,
+              "x": 9.052928924560547,
+              "y": -3.732936212158201
+            },
+            {
+              "text": "124",
+              "width": 22.386520385742188,
+              "x": 49.0379524230957,
+              "y": 17.267101287841797
+            }
+          ],
+          "textWidth": 102.3565673828125,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "f00159c2-d018-ca7b-fd37-73b436a10089",
+        "number": 24
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 446,
+          "y": 55
+        },
+        "size": {
+          "width": 132,
+          "height": 38
+        },
+        "angle": 0,
+        "label": "<p>proximity sensor</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "c7439f94-450f-85c0-7670-e363f128fb79",
+        "z": 20,
+        "labelLayout": {
+          "labelBoxWidth": 120.4624252319336,
+          "fullString": "PROXIMITY SENSOR 126",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "PROXIMITY SENSOR",
+              "width": 117.47224426269531,
+              "x": 1.4950904846191406,
+              "y": -3.732936212158201
+            },
+            {
+              "text": "126",
+              "width": 22.386520385742188,
+              "x": 49.0379524230957,
+              "y": 17.267101287841797
+            }
+          ],
+          "textWidth": 117.47224426269531,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "d7e35e70-a733-5500-aa88-fda7bb8b147d",
+        "number": 26
+      },
+      {
+        "type": "tp.Element",
+        "shape": "roundedRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"02275688-96be-7b1a-95b7-6880a93f954f\" id=\"id836e8930-a23b-4e5e-dbaa-c431f4a4e7d2\" data-type=\"term\">one or more contact intensity sensors</span></p>",
+        "position": {
+          "x": 262,
+          "y": 418
+        },
+        "size": {
+          "width": 153.36223506252733,
+          "height": 70.57377188718071
+        },
+        "angle": 0,
+        "label": "<p>contact intensity sensor(s)</p>",
+        "strokeStyle": "dashed",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "d71e4e86-46ff-47e3-bd7e-3c52319a2e41",
+        "z": 21,
+        "labelLayout": {
+          "labelBoxWidth": 140.60552978515625,
+          "fullString": "CONTACT INTENSITY SENSOR(S) 128",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "CONTACT INTENSITY",
+              "width": 118.36515808105469,
+              "x": 11.120185852050781,
+              "y": 11.03848712768555
+            },
+            {
+              "text": "SENSOR(S) 128",
+              "width": 93.0447998046875,
+              "x": 23.780364990234375,
+              "y": 32.03852462768555
+            }
+          ],
+          "textWidth": 118.36515808105469,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "72f0fea2-0ded-91fd-28a2-5568f2fd19a5",
+        "number": 28
+      },
+      {
+        "type": "tp.Element",
+        "shape": "roundedRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"ab63f312-14c1-1248-ec35-7b0ea5316ae2\" id=\"idbed9297f-fed8-e5e6-da50-00225a40ae6b\" data-type=\"term\">one or more tactile output generators</span></p>",
+        "position": {
+          "x": 263,
+          "y": 499
+        },
+        "size": {
+          "width": 153.36223506252733,
+          "height": 70.57377188718071
+        },
+        "angle": 0,
+        "label": "<p>tactile output generator</p>",
+        "strokeStyle": "dashed",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "c10a95e4-6b93-4efe-aa23-473d5e89c9d8",
+        "z": 22,
+        "labelLayout": {
+          "labelBoxWidth": 140.60552978515625,
+          "fullString": "TACTILE OUTPUT GENERATOR 130",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "TACTILE OUTPUT",
+              "width": 96.25198364257812,
+              "x": 22.176773071289062,
+              "y": 11.03848712768555
+            },
+            {
+              "text": "GENERATOR 130",
+              "width": 97.74624633789062,
+              "x": 21.429641723632812,
+              "y": 32.03852462768555
+            }
+          ],
+          "textWidth": 97.74624633789062,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "567b4a74-e513-9e36-5f1c-6dfe41b517b4",
+        "number": 30
+      },
+      {
+        "type": "tp.Element",
+        "shape": "roundedRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 172,
+          "y": 762
+        },
+        "size": {
+          "width": 134.51567123107057,
+          "height": 44.04495429689921
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"b46297fd-1f06-96c8-5c18-5bf5040a59db\" id=\"idf39b8873-697d-b0c8-9866-d4367079a0c1\" data-type=\"term\">microphone</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "b4f67034-15fe-4e2c-a373-52d3b0cb82f0",
+        "z": 23,
+        "labelLayout": {
+          "labelBoxWidth": 123.32662200927734,
+          "fullString": "MICROPHONE 132",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "MICROPHONE 132",
+              "width": 111.6956787109375,
+              "x": 5.815471649169922,
+              "y": 9.495163287353517
+            }
+          ],
+          "textWidth": 111.6956787109375,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "ea1ed473-be3f-8b84-f2a2-cc3c846e66dc",
+        "number": 32
+      },
+      {
+        "type": "tp.Element",
+        "shape": "roundedRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 377,
+          "y": 761.9112441721691
+        },
+        "size": {
+          "width": 168,
+          "height": 47
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"587d9068-c44e-0fdf-7591-dc3bb5864ead\" id=\"idf48e6c2e-7d26-ab2b-4a19-79366640372e\" data-type=\"term\">Accelerometer(s)</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "724ce0e4-e85b-7c16-02db-56cfcdd32976",
+        "z": 24,
+        "labelLayout": {
+          "labelBoxWidth": 153.8448486328125,
+          "fullString": "ACCELEROMETER(S) 134",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "ACCELEROMETER(S) 134",
+              "width": 145.83578491210938,
+              "x": 4.0045318603515625,
+              "y": 10.746755923461915
+            }
+          ],
+          "textWidth": 145.83578491210938,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "84249e3b-b083-681a-4075-1a5273e5feff",
+        "number": 34
+      }
+    ]
+  }
+}
